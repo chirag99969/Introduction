@@ -39,5 +39,14 @@ GCP : Moderate Proficiency
 Good at analysing and parsing large datasets (all security, cloud data sources).Extremely adept at doing proof of concepts for new security technology stack, testing integrations. 
 
 
-
 Skilled in Cyber Risk and security, peer Mentoring, training employees, technical leadership, group Discussions, and ITIL Processes.
+
+CERTIFICATIONS:
+•	GIAC Cloud Security Automation (July 2021 – July 2025)
+•	AWS CERTIFIED SECURITY SPECIALTY (Dec 2020 – Dec 2023)
+•	COMPTIA Security Plus (April 2019- April 2022)
+•	AWS Solutions Architect Associate (March 2020-March2023)
+•	SPLUNK Certified User
+•	SPLUNK Certified Power User
+•	Implementing MICROSOFT AZURE Infrastructure Solutions 70-533
+
