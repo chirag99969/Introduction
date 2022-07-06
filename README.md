@@ -6,7 +6,7 @@ Network Access Control, Content filtering, Isolation and sand-boxing, Identity a
 
 I am extremely tech savvy, a blue teamer, any technology within cyber, cloud computing and beyond which helps me in doing my job better sparks my interest. 
 
-**Strenghts**
+**Strengths**
 Good at Cloud native technologies from cloud security standpoint, proficient with IAC (terraform), secrets management, containers security, with security towards left evolving as DevSecOps, Good at CWPP, CSPM, creating dashboards for observability using handful of tools. 
 
 Projects I worked upon: 
