@@ -1,13 +1,15 @@
 # Introduction
 
-Cloud Security/Cyber Security Professional with 10 plus years across domains Cloud Security, AWS, GCP, Security Information and Event Management (SIEM), 
-Threat Detection and Response, Threat Research, Security Operations,  Endpoint Security (EPS), Endpoint Detection and Response, Network security, 
+Cloud Security/Cyber Security Professional with 13 plus years across domains Cloud Security, CSPM, CWPP, AWS, Azure, GCP, Security Information and Event Management (SIEM), 
+Threat Detection and Response, Detection Engineering, Threat Research, Security Operations,  Endpoint Security (EPS), Endpoint Detection and Response, Network security, 
 Network Access Control, Content filtering, Isolation and sand-boxing, Identity and Access management (IDAM). 
 
-I am extremely tech savvy, a blue teamer, any technology within cyber, cloud computing and beyond which helps me in doing my job better sparks my interest. 
+I am extremely tech savvy, Cloud Security Engineer, I have got Expertise level of Experience with AWS/Azure/GCP Cloud providers, I have implemented plethora of cloud native services at scale, for AWS, I have implemented Guardduty, Security Hub, AWS Congfigs, Organiational Cloudtrail Logging, Cloudwatch Logs and Metrics for observability, Service Control Policy, IAM, Identity Center, Security Automation using Lambdas, Event Brigde, implemented Logging and Monitoring for AWS Services at scale in SIEM, implemented falco for EKS Workloads, deployed Splunk SIEM as Kubernetes Workloads, did Vulnerability Management, SBOM using opensource project Scancode, syft.
+
+I have led and done CSPM, CWPP, CNAPP, red teaming projects for cloud using cloud native tooling, third party tools like Prisma Cloud/Crowstrike and Open source tools as well. Managed IAM, SCP, Security Boundaries, network segmentation on cloud,  Onboarding Apps to SSO.
 
 ## Strengths
-Good at Cloud native technologies from cloud security standpoint, proficient with IAC (terraform), secrets management, containers security, with security towards left evolving as DevSecOps, Good at CWPP, CSPM, creating dashboards for observability using handful of tools. 
+Proficiency/Expertise with AWS/Azure/GCP Services, Cloud Security, CSPM, CWPP, SIEM, EDR, IAM, SSO, Network Security, Security Automation, Security Boundary, Network Segmentation, Monitoring and Observability, POC and Deployment of Security Tooling, Vulnerabilty Management, SBOM, CI/CD security.
 
 ## Projects I worked upon: 
 
@@ -34,7 +36,7 @@ Typical Day at work looks like (when in call/shift)
 
 * Cloud secuirty : 
 * AWS: Expertise level of proficiency
-* GCP : Moderate Proficiency
+* Azure/GCP : Moderate Proficiency
 
 Good at analysing and parsing large datasets (all security, cloud data sources).Extremely adept at doing proof of concepts for new security technology stack, testing integrations. 
 
@@ -43,6 +45,8 @@ Skilled in Cyber Risk and security, peer Mentoring, training employees, technica
 
 ## CERTIFICATIONS:
 * GIAC Cloud Security Automation (July 2021 – July 2025)
+* GCP Professional Cloud Architect (March 2025 – March 2027)
+* GCP Professional Cloud Security Engineer (May 2025 – May 2027)
 * AWS CERTIFIED SECURITY SPECIALTY (Dec 2020 – Dec 2023)
 * COMPTIA Security Plus (April 2019- April 2022)
 * AWS Solutions Architect Associate (March 2020-March2023)
