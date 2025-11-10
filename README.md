@@ -13,9 +13,13 @@ Proficiency/Expertise with AWS/Azure/GCP Services, Cloud Security, CSPM, CWPP, S
 
 ## Projects I worked upon: 
 
-* CSPM for AWS/GCP : Accomplished CSPM (Cloud Security Posture managemenet) successfully for AWS (200 plus accounts) and GCP (15 plus) using Prisma Cloud. Using config, event, network
-queries, written 200 Detections (Policies, ALert Rules). Integrated with email Notification, Team channels, XSOAR (Demisto) platform to create Notables. 
-Prepared documentation for SOC analyst to triage. 
+* **CSPM**: Accomplished 95% Compliance of resources for CSPM Effort implmented and led by our team for more than 200 plus AWS Accounts, 50 plus GCP Pojects, 4 Azure Subscriptions. Using cloud native Tooling and Thrid Party tools. (AWS Configs | Prisma Cloud | Defender)
+* **Logging and Monitoring**: Accomplished Data Onbaording into Splunk for Multiple Cloud data sources.
+* **AWS Security**: Implemented AWS Configs, Guardduty, Security Hub, AWS Configs, Service Control Policy, IAM, Identity Center, Cloudtrail Logging, AWS WAF, Route 53, Certificate Manager, Cloudwatch Logs, Security Automation using Lambdas, Config and Event Bridge.
+* **MITRE ATTACK Framework**: Accomplished 100% Mapping of all the TTPs across our Technology stack with MITRE Attack Framework.
+* **Security Automation**: Leveraged cloud native services for automatic remediations, sending notifications
+* **CWPP**: Implemented falco rules for Kubernetes workloads
+* **Security Operations**: Created Threat Hunt Framework, multiple incident response playbooks, SOAR automation workflows.  
 
 * AWS Cleanroom : Created AWS Cleanroom, Terraform apply to spin up. It instantiates Windows machine (loaded with DFIR Tools, 
 Windows Collection tools, windows analysis tools) and Linux cleanroom (we use mobaXterm to login), once logged in, we can use REMnux/Linux tools, including GUI tools
@@ -29,10 +33,11 @@ resources on AWS, assumed the case compromised keys, did enumeration using pacu 
 Intention was to determine, how many detections triggered using our current technology stack (prisma Cloud, Splunk Analytics, Guardduty, Vectra). 
 And how successful are we, what can be improved upon further. 
 
-
+<!-- This text will not be visible in the rendered Markdown on GitHub. 
 Typical Day at work looks like (when in call/shift)  
 👉 Detection Engineering 👉 Align TTPs to MITRE ATT&CK framework 👉 Incident Response 👉 Bring about remediations 👉 Attack Simulation 
 👉 Validate our detection rules 👉 Threat Hunting 👉 log analysis 👉 playing with big datasets 👉 Innovate and Improve 👉 Repeat
+-->
 
 * Cloud secuirty : 
 * AWS: Expertise level of proficiency
