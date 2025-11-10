@@ -28,10 +28,6 @@ like Wireshark. For persistent storage, data from cleanroom can be dumped to S3 
 * Offensive Terraform/Attack Simulation : Written Terraform modules for 20 plus AWS services to create misconfigured resources to check the efficacy of CSPM effort.
 This has become a mothly periodic exercise to check the efficacy of CSPM (Policies, rules), we have for detecting misconfigs. 
 
-*RedTeaming on AWS : Conducted RED teaming exercise using open source projects cloudgoat and pacu to determine our Cloud security posture. With cloudgoat created
-resources on AWS, assumed the case compromised keys, did enumeration using pacu modules and eventually exflitrated credentials for every new IAMUser created. 
-Intention was to determine, how many detections triggered using our current technology stack (prisma Cloud, Splunk Analytics, Guardduty, Vectra). 
-And how successful are we, what can be improved upon further. 
 
 <!-- This text will not be visible in the rendered Markdown on GitHub. 
 Typical Day at work looks like (when in call/shift)  
